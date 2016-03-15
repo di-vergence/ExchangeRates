@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="myscreen">myScreenxml</string>
+    <string name="textView">Rates</string>
+    <string name="code">Code</string>
+    <string name="bid">Bid</string>
+    <string name="ast">Ast</string>
+    <string name="Rates">Rates</string>
+    <string name="Reload">Reload</string>
+</resources>
